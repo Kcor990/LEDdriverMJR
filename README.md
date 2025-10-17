@@ -9,6 +9,8 @@ Dzięki możliwości regulacji mocy światła za pomocą sygnału PWM układ ma 
 ![Schemat PCB](images/PT4115MJR_schematic.JPG)
 
 ![Zastosowanie](images/swiatlo.jpg)
+
+![Zastosowanie](images/photo1.jpg)
 ## ⚙️ Użyte komponenty
 - driver PT4115
 - cewka 47uH
